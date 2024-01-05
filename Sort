@@ -1,0 +1,2 @@
+let words = ["huh", "be", "ok", "tie"]
+print(words.sorted())
